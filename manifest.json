@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Tab Link Display",
+  "version": "1.0",
+  "description": "Show links for every opened tab",
+  "permissions": ["tabs"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
